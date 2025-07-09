@@ -1,0 +1,130 @@
+{
+  "transaksi": [
+    {
+      "id": "1751742206577",
+      "tanggal": "2025-07-05T19:03:26.578Z",
+      "pesanan": [
+        {
+          "id_menu": 1,
+          "nama_menu": "Nasi Goreng Spesial",
+          "harga": 25000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 2,
+          "nama_menu": "Ayam Bakar",
+          "harga": 28000,
+          "jumlah": 1
+        }
+      ],
+      "mejaId": 1,
+      "selesai": true
+    },
+    {
+      "id": "1751742961313",
+      "tanggal": "2025-07-05T19:16:01.313Z",
+      "pesanan": [
+        {
+          "id_menu": 1,
+          "nama_menu": "Nasi Goreng Spesial",
+          "harga": 25000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 2,
+          "nama_menu": "Ayam Bakar",
+          "harga": 28000,
+          "jumlah": 1
+        }
+      ],
+      "mejaId": 3,
+      "selesai": true
+    },
+    {
+      "id": "1751742968017",
+      "tanggal": "2025-07-05T19:16:08.017Z",
+      "pesanan": [
+        {
+          "id_menu": 1,
+          "nama_menu": "Nasi Goreng Spesial",
+          "harga": 25000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 3,
+          "nama_menu": "Sate Ayam",
+          "harga": 30000,
+          "jumlah": 1
+        }
+      ],
+      "mejaId": 1,
+      "selesai": true
+    },
+    {
+      "id": "1751743191178",
+      "tanggal": "2025-07-05T19:19:51.178Z",
+      "pesanan": [
+        {
+          "id_menu": 1,
+          "nama_menu": "Nasi Goreng Spesial",
+          "harga": 25000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 3,
+          "nama_menu": "Sate Ayam",
+          "harga": 30000,
+          "jumlah": 1
+        }
+      ],
+      "mejaId": 1,
+      "selesai": true
+    },
+    {
+      "id": "1751743199520",
+      "tanggal": "2025-07-05T19:19:59.520Z",
+      "pesanan": [
+        {
+          "id_menu": 1,
+          "nama_menu": "Nasi Goreng Spesial",
+          "harga": 25000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 3,
+          "nama_menu": "Sate Ayam",
+          "harga": 30000,
+          "jumlah": 1
+        }
+      ],
+      "mejaId": 1,
+      "selesai": true
+    },
+    {
+      "id": "1751743310752",
+      "tanggal": "2025-07-05T19:21:50.752Z",
+      "pesanan": [
+        {
+          "id_menu": 1,
+          "nama_menu": "Nasi Goreng Spesial",
+          "harga": 25000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 2,
+          "nama_menu": "Ayam Bakar",
+          "harga": 28000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 3,
+          "nama_menu": "Sate Ayam",
+          "harga": 30000,
+          "jumlah": 1
+        }
+      ],
+      "mejaId": 2,
+      "selesai": true
+    }
+  ]
+}
